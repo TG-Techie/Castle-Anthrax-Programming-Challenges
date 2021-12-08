@@ -16,4 +16,6 @@
 
 x = MyClass()
 
-assert isinstance(x, MyClass), "make this assert fail"
+assert isinstance(
+    x, MyClass
+), "make this assert fail... so if you're seering this it works!"
