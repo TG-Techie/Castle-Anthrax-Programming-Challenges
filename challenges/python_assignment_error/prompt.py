@@ -14,8 +14,9 @@
 
 # --- test code, (no modification below this line) ---
 
-x = MyClass()
+obj = object()
 
-assert isinstance(
-    x, MyClass
-), "make this assert fail... so if you're seering this it works!"
+
+class MyClass(Base):
+    x = obj  # raise some error on the assignmnet of x
+    assert False, "inside: this line should not be reached"
