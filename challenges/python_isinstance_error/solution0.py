@@ -4,7 +4,8 @@
 
 # TODO: This solution is reserved for Zach Tower
 
-# Author, Date:
+# Challenge Author(s): Jonah Yolles-Murphy
+# Solution Author(s):
 #   Zach Tower, 01Jan1970, optional twitter, discord, or github
 
 # --- solution ---

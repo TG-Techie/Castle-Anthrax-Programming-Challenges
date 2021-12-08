@@ -2,7 +2,8 @@
 # Python Error on assignment:
 #    make assertion fail, you my not clobber or re-define builtins
 
-# Author, Date:
+# Challenge Author(s): Jonah Yolles-Murphy
+# Solution Author(s):
 #   Full Name, 01Jan1970, optional twitter, discord, or github
 
 # --- solution ---

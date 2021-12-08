@@ -2,7 +2,8 @@
 # Python Error on assignment:
 #   Make the the assignment of x raise an error
 
-# Author, Date:
+# Challenge Author(s): Jonah Yolles-Murphy
+# Solution Author(s):
 #   Jonah Yolles-Murphy, 08Dec2021, discord: TG-Techie#5402
 
 # --- solution ---

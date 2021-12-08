@@ -2,7 +2,8 @@
 # Python Error on assignment:
 #   Make the the assignment of x raise an error
 
-# Author, Date:
+# Challenge Author(s): Jonah Yolles-Murphy
+# Solution Author(s):
 #   Full Name, 01Jan1970, optional twitter, discord, or github
 
 # --- solution ---
